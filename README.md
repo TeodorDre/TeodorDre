@@ -2,5 +2,5 @@
 - 👀 I’m interested in C++ / RaspberryPi / NodeJS
 - 🌱 I’m currently creating an C++ desktop program.
 - 🆓 Looking an open-source C++ project to collaborate for free.
-- Currently creating video player & online cinema-theater at Viasat.tech
+- Currently creating video player & online cinema-theater at Viasat.tech for viju.ru
 - 📫 How to reach me: Telegram: @Teodor_Dre
